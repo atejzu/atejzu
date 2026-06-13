@@ -1,12 +1,58 @@
-# 💫 About Me:
-Hi! I'm a Computer Science student from Slovenia. Finishing Tehnik računalništva on Elektrotehniška in Računalniška šola Nova Gorica, passionate about web development and building real-world solutions. I work mainly with:<br><br>Java<br><br>HTML/CSS<br><br>JavaScript<br><br>PHP<br><br>MySQL<br><br>OracleSQL<br><br>Currently, I’m developing a Slovenian website for a German company LensWare that provides leading software and support in the ophthalmic industry.(https://lensware-slovenija.si/)<br><br>I'm always looking for new projects, collaborations, and job opportunities where I can grow, learn, and contribute.<br><br>Outside of tech, I come from a high-performance sports background — I used to compete in kayak slalom at a high level, which taught me discipline, focus, and resilience. Now, I bring that same drive into every line of code I write.<br><br>Let’s connect and build something great together!
+# Hi, I'm Atej 👋
 
+I'm a Computer Science student from Slovenia and a qualified Computer Technician with hands-on experience in software development, data integration, web technologies, databases, and system administration.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atejzobecurbancic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atejzobecurbancic) 
+I enjoy building practical software that solves real-world problems, from Java desktop applications and automated data-processing systems to responsive web applications.
 
-# 💻 Tech Stack:
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+## 🚀 What I'm Working On
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Studying **Computer Science and Web Technologies** at the Faculty of Information Studies in Novo mesto
+- Co-building an early-stage **AI-powered coaching product**
+- Expanding my knowledge of full-stack development, software architecture, and AI-assisted product development
+
+## 💼 Selected Experience
+
+- Developed a **Java desktop data scheduling and synchronization application** for LensWare
+- Built JDBC integrations for **MySQL** and **Microsoft SQL Server**
+- Implemented recurring tasks, concurrent execution, data synchronization, logging, and configuration management
+- Contributed to a proprietary full-stack software project under strict confidentiality
+- Developed and deployed the public website for **LensWare Slovenia**
+
+🌐 [LensWare Slovenia](https://lensware-slovenija.si/)
+
+## 💻 Technologies
+
+### Programming and Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases and Data Integration
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+`JDBC` · `SQL` · `Data Integration` · `Concurrent Programming`
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🌊 Beyond Technology
+
+Before focusing on software development, I competed internationally in kayak slalom and represented Slovenia at junior level.
+
+High-performance sport taught me discipline, resilience, consistency, and how to stay focused while working toward long-term goals. I now bring that same mindset to software development.
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atejzobecurbancic)
