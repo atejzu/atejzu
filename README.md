@@ -7,7 +7,7 @@ I enjoy building practical software that solves real-world problems, from Java d
 ## 🚀 What I'm Working On
 
 - Studying **Computer Science and Web Technologies** at the Faculty of Information Studies in Novo mesto
-- Co-building an early-stage **AI-powered coaching product**
+- Co-building an early-stage **AI-powered product**
 - Expanding my knowledge of full-stack development, software architecture, and AI-assisted product development
 
 ## 💼 Selected Experience
