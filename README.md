@@ -18,7 +18,6 @@ I enjoy building practical software that solves real-world problems, from Java d
 - Contributed to a proprietary full-stack software project under strict confidentiality
 - Developed and deployed the public website for **LensWare Slovenia**
 
-🌐 [LensWare Slovenia](https://lensware-slovenija.si/)
 
 ## 💻 Technologies
 
